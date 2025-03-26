@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipWhile", "SkipWhile\SkipWhile.csproj", "{B4859B1B-FDF1-4157-B5C0-8E4E2044EB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4859B1B-FDF1-4157-B5C0-8E4E2044EB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4859B1B-FDF1-4157-B5C0-8E4E2044EB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4859B1B-FDF1-4157-B5C0-8E4E2044EB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4859B1B-FDF1-4157-B5C0-8E4E2044EB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17390770-3CFD-4526-A7CB-7174A9BDD9AE}
+	EndGlobalSection
+EndGlobal
